@@ -38,3 +38,5 @@ This is just a test by brikou
 Shouldn't this module be renamed to "svntest"?
 
 Or perhaps scmtest - in case we are switching again in some years?
+
+Test: commit to branch and trunk
