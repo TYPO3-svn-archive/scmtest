@@ -1,0 +1,12 @@
+$Id: f1.txt,v 1.4 2003/10/06 11:19:13 andreaso Exp $
+This file will only be edited by Paul.
+
+This line will be changed later.
+
+The rest of this file will remain the same.
+
+What is meant here?
+
+asdf 
+adsf
+ adsf 

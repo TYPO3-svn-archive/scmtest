@@ -1,0 +1,15 @@
+This file will only be  edited by Wing.
+
+This line has been changed.
+
+The rest of this file will remain the same.
+
+This is a change before tagging.
+
+
+Ok, so that line is there as well!
+
+Yet a change
+
+
+Change after tagging...!
